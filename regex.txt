@@ -1,0 +1,5 @@
+Kyle Foss
+
+Regex 0 : [A-Z]|[a-z]
+Regex 1: (KK)|(turkey)|(Nic)|(avacado)|(Vincent)|(ham)
+Regex 2: (turkey\.bacon\.swiss\.|for here*|ham\.cheddar\.| to go*| tunaSalad\.)
